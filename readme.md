@@ -1,6 +1,6 @@
 # Inicializando git Local
 
-.
+..
 Primeiro confira se o git está instalado:
 ```bash
 git --version
