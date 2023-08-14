@@ -54,3 +54,9 @@ git fetch
 git pull
 ```
 -  É usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.
+
+  ```
+  code .
+  ```
+-  É usado para abrir o repositório no VS Code
+-  Caminho: cd Documents >> git clone (link do repositório criado no github) >> cd Documents >> cd (nome do repositório criado) >> code .
